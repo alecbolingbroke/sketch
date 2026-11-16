@@ -1,4 +1,4 @@
-# Live sketch
+# Sketch
 
 A pattern that grows like coral out of a word you type or a photo you pick, and moves with the music in the room.
 
